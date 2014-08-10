@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deals>
+  <deal>
+    <id>sdf</id>
+    <city>dsfds</city>
+    <category>dsf</category>
+    <title>dfg</title>
+    <description>dfgfd</description>
+    <price>521</price>
+    <discount>120</discount>
+    <StarTime>28/06/2014 22:37:06</StarTime>
+    <EndTime>28/06/2014 22:37:06</EndTime>
+    <MarchantName>dfg</MarchantName>
+    <MarchantAdresse>dfg</MarchantAdresse>
+    <MarchantPhone>65 65 56</MarchantPhone>
+    <img>fdg</img>
+    <LinkView>fdg</LinkView>
+    <LinkAchat>fdg</LinkAchat>
+  </deal>
+</deals>

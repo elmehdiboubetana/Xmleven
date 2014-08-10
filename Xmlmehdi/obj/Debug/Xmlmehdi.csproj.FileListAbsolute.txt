@@ -1,0 +1,9 @@
+D:\Mido\Les Infos\Les Projets\Xmlmehdi\Xmlmehdi\bin\Debug\Xmlmehdi.exe.config
+D:\Mido\Les Infos\Les Projets\Xmlmehdi\Xmlmehdi\bin\Debug\Xmlmehdi.exe
+D:\Mido\Les Infos\Les Projets\Xmlmehdi\Xmlmehdi\bin\Debug\Xmlmehdi.pdb
+D:\Mido\Les Infos\Les Projets\Xmlmehdi\Xmlmehdi\obj\Debug\Xmlmehdi.csprojResolveAssemblyReference.cache
+D:\Mido\Les Infos\Les Projets\Xmlmehdi\Xmlmehdi\obj\Debug\Xmlmehdi.Form1.resources
+D:\Mido\Les Infos\Les Projets\Xmlmehdi\Xmlmehdi\obj\Debug\Xmlmehdi.Properties.Resources.resources
+D:\Mido\Les Infos\Les Projets\Xmlmehdi\Xmlmehdi\obj\Debug\Xmlmehdi.csproj.GenerateResource.Cache
+D:\Mido\Les Infos\Les Projets\Xmlmehdi\Xmlmehdi\obj\Debug\Xmlmehdi.exe
+D:\Mido\Les Infos\Les Projets\Xmlmehdi\Xmlmehdi\obj\Debug\Xmlmehdi.pdb
